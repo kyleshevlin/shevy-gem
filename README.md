@@ -28,7 +28,11 @@ After the gem is installed, you will need to add Shevy to your `application.css`
 *= require shevy
 ```
 
-Add this _before_ your other styles so that the mixins are available.
+Add this _before_ your other stylesheets. Lastly, import it into your Sass files:
+
+```sass
+@import 'shevy';
+```
 
 ## Usage
 
