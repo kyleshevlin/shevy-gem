@@ -1,8 +1,8 @@
 # Shevy
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/shevy`. To experiment with that code, run `bin/console` for an interactive prompt.
+Shevy is a small Sass library for simple, configurable typography with perfect vertical rhythm.
 
-TODO: Delete this and the text above, and describe your gem
+This is Shevy in gem form. If you are looking for the original repo, go to [https://github.com/kyleshevlin/shevy](https://github.com/kyleshevlin/shevy).
 
 ## Installation
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Usage can be found at [https://github.com/kyleshevlin/shevy](https://github.com/kyleshevlin/shevy).
 
 ## Development
 
@@ -32,5 +32,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/shevy.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kyleshevlin/shevy-gem.
 
