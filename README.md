@@ -20,6 +20,16 @@ Or install it yourself as:
 
     $ gem install shevy
 
+### Important
+
+After the gem is installed, you will need to add Shevy to your `application.css` file.
+
+```
+*= require shevy
+```
+
+Add this _before_ your other styles so that the mixins are available.
+
 ## Usage
 
 Usage can be found at [https://github.com/kyleshevlin/shevy](https://github.com/kyleshevlin/shevy).
