@@ -1,3 +1,5 @@
+### This repo is now deprecated. The gem source code now resides here: [https://github.com/kyleshevlin/shevy](https://github.com/kyleshevlin/shevy).
+
 # Shevy
 
 Shevy is a small Sass library for simple, configurable typography with perfect vertical rhythm.
